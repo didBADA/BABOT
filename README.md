@@ -1,6 +1,6 @@
 # BABOT
 로봇 관련된 모든 포트폴리오를 저장할 저장소
-
+[![영상 보러가기]([https://img.youtube.com/vi/HuwVZSxAesw/mqdefault.jpg](https://www.youtube.com/watch?v=KoUJOU4oBM0))](https://youtu.be/HuwVZSxAesw)
 # 🏎️ 4휠 스마트 RC카 고속 주행 및 탈선 방지 알고리즘 고도화 프로젝트
 
 ## 🛠️ 1. 하드웨어 구성 및 부품 정보 (Hardware Specification)
